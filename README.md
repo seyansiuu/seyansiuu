@@ -110,13 +110,12 @@ class Seyanshu:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🧠 Reach **Pupil** on Codeforces
 - [ ] 💯 Solve **100+ problems** on LeetCode
-- [ ] 🌐 Build and deploy **3 projects**
-- [ ] 🤝 Make first **open source contribution**
-- [ ] 📚 Master **DSA fundamentals**
+- [ ] 🌐 Build and sclae **1 real world project**
+- [ ] 📚 Master **DSA Core**
 
 ---
 
